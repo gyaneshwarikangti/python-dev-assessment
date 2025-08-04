@@ -1,3 +1,3 @@
 # Python Developer Assessment
 
-Assessemt Exercise.
+This repository is for my developer assessment tasks.
