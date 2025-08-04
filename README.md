@@ -1,3 +1,3 @@
 # Python Developer Assessment
 
-assessemt.
+Assessemt Exercise.
